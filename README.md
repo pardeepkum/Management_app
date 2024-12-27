@@ -5,3 +5,4 @@
 # edit icon click then edit the deatils 
 # deleted icon deleted the created task delete particular index 
 # State Management Used in the app and local stored the data Sqflite hive database as well 
+# changes the branches master then get the code 
